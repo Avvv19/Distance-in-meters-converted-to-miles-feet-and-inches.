@@ -1,5 +1,3 @@
-#NAME : VENKATA VIVEK VARMA ALLURU
-#DATE : 27/04/2024
 
 def capital_vowels(string):
 #created a list
